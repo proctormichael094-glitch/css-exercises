@@ -1,8 +1,8 @@
 /* Add CSS Styling */
 
 p {
-    background-color: #FFCCCB;
-    font-family: Verdana , DejaVu Sans, sans-serif;
+    background-color: rgb(255, 175, 198);
+    font-family: Verdana , "DejaVu Sans", sans-serif;
 }
 
 #test1{
