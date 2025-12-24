@@ -6,6 +6,7 @@
     font-size: 28px;
 }
 
+/* We can group these two class selectors because even though they have different declarations, their font size, and family declarations are the same */
 
 
 .intro{
