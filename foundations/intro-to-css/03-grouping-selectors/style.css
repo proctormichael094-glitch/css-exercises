@@ -10,6 +10,7 @@
     background-color: yellow;
 }
 
+/* I used button because both claases share the same element */
 
 button{
     font-family: Helvetica, 'Times New Roman', sans-serif; 
