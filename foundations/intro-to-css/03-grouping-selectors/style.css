@@ -1,5 +1,13 @@
 /* Add CSS Styling */
 
+.intro,
+.outro{
+    font-family: Helvetica, 'Times New Roman', sans-serif;
+    font-size: 28px;
+}
+
+
+
 .intro{
     color: white;
     background-color: black;
@@ -10,8 +18,3 @@
     background-color: yellow;
 }
 
-/* I used button because both claases share the same element */
-
-button{
-    font-family: Helvetica, 'Times New Roman', sans-serif; 
-}
