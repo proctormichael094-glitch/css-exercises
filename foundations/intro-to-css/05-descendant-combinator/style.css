@@ -1,1 +1,5 @@
 /* Add CSS Styling */
+
+.container .text{
+    background-color: hsl(54, 100%, 56%);
+}
