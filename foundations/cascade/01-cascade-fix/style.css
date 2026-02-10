@@ -16,7 +16,7 @@ body {
 .para {
   font-size: 22px;
 }
-
+/* By using the specific name from both classes below it allows us to make seperate changes. */
 .confirm {
   background: green;
   color: white;
