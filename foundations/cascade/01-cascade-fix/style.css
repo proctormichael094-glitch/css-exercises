@@ -17,6 +17,7 @@ body {
   font-size: 22px;
 }
 /* By using the specific name from both classes below it allows us to make seperate changes. */
+
 .confirm {
   background: green;
   color: white;
@@ -29,6 +30,7 @@ body {
   color: rgb(0, 0, 0);
   font-size: 20px;
 }
+/* By removing the div below, and focusing on the specific class I was able to change rules seperately. */
 
 .text.child {
   color: rgb(0, 0, 0);
