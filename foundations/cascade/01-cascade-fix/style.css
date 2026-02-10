@@ -7,6 +7,7 @@ body {
   color: hsl(0, 0%, 0%);
   font-weight: 800;
 }
+/* Adding the second class below allows the rule to be more specific */
 
 .para.small-para {
   font-size: 14px;
